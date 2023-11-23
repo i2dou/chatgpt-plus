@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+tmp
+bin
+data
+config.toml
+static/upload 
+storage.json
+certs/alipay/*
